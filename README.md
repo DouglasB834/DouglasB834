@@ -7,7 +7,7 @@
    E se você assim como eu, também é um apaixono por tecnologia, te desejo todo sorte do mundo abraço! e nos vemos por ai ✌!
     <h3>detalhes</h3>
     <ul>
-        <li><strong>Cidade</strong> : Mora no Rio de janeiro </li>
+        <li><strong>Cidade</strong> : Rio de janeiro </li>
         <li><strong>idade</strong> : 30 anos</li>
         <li><strong>Linguagem</strong> : HTML, CSS e JavaScript </li>
         <li><strong>Tecnologia</strong> : git/github, Scrum</li>
