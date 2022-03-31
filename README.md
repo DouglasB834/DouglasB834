@@ -1,8 +1,12 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/86388680/161141029-3316ed66-dacd-45da-9893-34f20d93147b.gif" height="250px "
+     width="80%px" />
+</div
 <div>
     <h1 align="left">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/douglas-s-borges-475379115/"><i>Douglas Borges </i></a> 😃️</h1>
     <h3>👋🏽 Um pouco da minha trajetória</h3>
     “Apaixonado por games e tecnologia”. 😁
-    Desde pequeno sou fascinado pelo mundo dos games e Inteligência Artificial. E, como a grande maioria das pessoas da minha geração, sempre passei horas a fio na       frente do computador, sem perceber o tempo passar. <br>
+    Desde pequeno sou fascinado pelo mundo dos games e Inteligência Artificial. E como a grande maioria das pessoas da minha geração, sempre passei horas a fio na  frente do computador, sem perceber o tempo passar. <br>
     Hoje, estou adorando aprender e desenvolver em HTML, CSS e JavaScript. Vou iniciar os estudos em Java, SQL e futuramente vou mergulhar no universo do Node.js , Ts, Angular e até mesmo React.
    E se você assim como eu, também é um apaixono por tecnologia, te desejo toda sorte do mundo, abraço! e nos vemos por ai ✌!
     <h3>🧑🏽 detalhes</h3>
