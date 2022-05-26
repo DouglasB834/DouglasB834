@@ -13,7 +13,7 @@
     <ul>
         <li><strong>Cidade</strong> : Rio de janeiro </li>
         <li><strong>idade</strong> : 30 anos</li>
-        <li><strong>Linguagem</strong> : HTML, CSS, JavaScript, SQL </li>
+        <li><strong>Linguagem</strong> : HTML, CSS, JavaScript e SQL </li>
         <li><strong>Tecnologia</strong> : git/github, Scrum</li>
         <li><strong>Desenvolvedor</strong> : Frond-end </li>
         <li><strong>Univercidade</strong> : Em andamento <i>Universidade Estácio de Sá</i> - Sistema para Internet  </li>
