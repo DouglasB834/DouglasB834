@@ -25,9 +25,11 @@
       
    <br>
     <p align="left">Se embora codar ! Sua contribuição será muito bem vinda! 😉️</p>
-  
+    
+  <h2>Minhas Estatisticas do GitHub: </h2>
   <div align="left">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DouglasB834&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <a href="https://github.com/GuilhermeSchulz">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DouglasB834&theme=dracula"/>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasB834&theme=dracula&hide_border=false&&layout=compact"/>
     </a>
   </div>
