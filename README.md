@@ -28,7 +28,7 @@
     
   <h2>Minhas Estatisticas do GitHub: </h2>
   <div align="left">
-    <a href="https://github.com/GuilhermeSchulz">
+    <a href="https://github.com/DouglasB834">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DouglasB834&theme=dracula"/>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasB834&theme=dracula&hide_border=false&&layout=compact"/>
     </a>
