@@ -20,7 +20,6 @@
         <li><strong>Graduado</strong> :<i>  Senac RJ</i> - Curso Chef Executivo  </li>
     </ul> <strong> </strong>
     <p align="left">👨‍🎓 <a href="https://estacio.br/"><i>Universidade Estácio de Sá</i></a><span>.👈🏽️</span></p>
-    <p align="left">👨‍🎓 <a href="https://itstep.com.br/"><i>STEP Computer Academy</i></a><span> . 👈🏽️</span></p>
       
    <br>
     <p align="left">Se embora codar ! Sua contribuição será muito bem vinda! 😉️</p>
