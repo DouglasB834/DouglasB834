@@ -6,8 +6,10 @@
     <h1 align="left">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/douglas-s-borges-475379115/"><i>Douglas Borges </i></a> 😃️</h1>
     <h3>👋🏽 Um pouco da minha trajetória</h3>😁
     Desde pequeno sou fascinado pelo mundo dos games e Inteligência Artificial. E como a grande maioria das pessoas da minha geração, sempre passei horas a fio na  frente do computador, sem perceber o tempo passar. <br>
-    Hoje, estou adorando aprender e desenvolver em HTML, CSS e JavaScript. Vou iniciar os estudos em Java, SQL e futuramente vou mergulhar no universo do Node.js , Ts, Angular e até mesmo React.
+    Hoje, estou adorando desenvolver em React.js, Next, Tailwind e JavaScript. Vou iniciar os estudos em React. Native e futuramente vou mergulhar no universo do Angular, Java.
    E se você assim como eu, também é um apaixono por tecnologia, te desejo toda sorte do mundo, abraço! e nos vemos por ai ✌!
+     <hr>
+    <p>Principais competências: HTML | CSS3 | JavaScript | React | Nextjs| Tailwind | Hooks | Redux | Components APis RESTful | Python | Django | ORM | TypeORM | MongoDB </p>
     <h3>🧑🏽 detalhes</h3>
     <ul>
         <li><strong>Cidade</strong> : Rio de janeiro </li>
