@@ -21,7 +21,9 @@
          <li><strong>Especialização</strong> : Em andamento <i>  STEP Computer Academy</i> - Formação Full Stack  </li>
         <li><strong>Graduado</strong> :<i>  Senac RJ</i> - Curso Chef Executivo  </li>
     </ul> <strong> </strong>
-    <p align="left">👨‍🎓 <a href="https://estacio.br/"><i>Universidade Estácio de Sá</i></a><span>.👈🏽️</span></p>
+    <p align="left">👨‍🎓 <a href="https://estacio.br/"><i>Universidade Estácio de Sá</i></a><span>. estudando👈🏽️</span></p>
+        <p align="left">👨‍🎓 <a href="https://www.rocketseat.com.br/"><i>Rocketseat</i></a><span>. estudando👈🏽️</span></p>
+     <p align="left">👨‍🎓 <a href="https://kenzie.com.br/"><i>Kenzie Academy Brasil</i></a><span>.👈🏽️Formado </span></p>
       
    <br>
     <p align="left">Se embora codar ! Sua contribuição será muito bem vinda! 😉️</p>
