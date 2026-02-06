@@ -22,7 +22,7 @@
         <li><strong>Graduado</strong> :<i>  Senac RJ</i> - Curso Chef Executivo  </li>
     </ul> <strong> </strong>
     <p align="left">👨‍🎓 <a href="https://estacio.br/"><i>Universidade Estácio de Sá</i></a><span>. Formado👈🏽️</span></p>
-        <p align="left">👨‍🎓 <a href="https://www.rocketseat.com.br/"><i>Rocketseat</i></a><span>. Formado👈🏽️</span></p>
+        <p align="left">👨‍🎓 <a href="https://www.rocketseat.com.br/"><i>Rocketseat</i></a><span>. Estudando👈🏽️</span></p>
      <p align="left">👨‍🎓 <a href="https://kenzie.com.br/"><i>Kenzie Academy Brasil</i></a><span>.👈🏽️Formado </span></p>
      <p align="left">👨‍🎓 <a href="https://www.linkedin.com/in/douglassborges/"><i>Linkedin Douglas </i></a><span>.👈🏽️ </span></p>
 
